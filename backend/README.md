@@ -1,5 +1,5 @@
-#To Start
+## To Start
 
-pip install -r requirements.txt
-py .\db\init_db.py  
-py app.py
+1. pip install -r requirements.txt
+2. py .\db\init_db.py
+3. py app.py
