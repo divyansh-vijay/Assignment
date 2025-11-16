@@ -1,3 +1,3 @@
 # Assignment
 
-Instructions to run backend and frontend are in their respective repositories
+Instructions to run backend and frontend are in their respective folders.
