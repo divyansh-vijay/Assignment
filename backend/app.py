@@ -51,6 +51,7 @@ def update(id):
         return {"error": "not found"}, 404
     return {"message": "Updated Successfully", "data": data}, 200
 
+
 #searching a contact
 @app.get("/contacts/search/<name>")
 def search(name):
